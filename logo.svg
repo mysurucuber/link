@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+<title id="title">KHADAK CUBER logo</title><desc id="desc">A colourful speedcube emblem above the KHADAK CUBER wordmark.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171717"/><stop offset="1" stop-color="#050505"/></linearGradient></defs>
+<rect width="900" height="420" rx="34" fill="url(#bg)"/>
+<g transform="translate(450 130)">
+<g stroke="#080808" stroke-width="9" stroke-linejoin="round">
+<path d="M0 -100 96 -48 0 6 -96 -48Z" fill="#f5c400"/>
+<path d="M-96 -48 0 6 0 118 -96 62Z" fill="#f04432"/>
+<path d="M0 6 96 -48 96 62 0 118Z" fill="#f7f7f7"/>
+<path d="M-48 -74 -1 -47 -48 -20 -94 -47Z" fill="#fff"/>
+<path d="M0 -47 48 -74 94 -47 47 -20Z" fill="#f04432"/>
+<path d="M-48 -20 0 7 0 61 -48 34Z" fill="#f5c400"/>
+<path d="M0 7 48 -20 48 34 0 61Z" fill="#f5f5f5"/>
+</g></g>
+<text x="450" y="310" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" letter-spacing="3">KHADAK</text>
+<text x="450" y="375" text-anchor="middle" fill="#f5c400" font-family="Arial,Helvetica,sans-serif" font-size="56" font-weight="900" letter-spacing="12">CUBER</text>
+</svg>
